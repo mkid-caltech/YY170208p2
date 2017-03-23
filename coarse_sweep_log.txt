@@ -1,0 +1,13 @@
+coarse_sweep_1 @ 6.9K
+coarse_sweep_2 @ 6.5K
+coarse_sweep_3 @ 6.4K
+coarse_sweep_4 @ 6.3K
+coarse_sweep_5 @ 6.2K
+coarse_sweep_6 @ 6.1K
+coarse_sweep_7 @ 6.0K
+coarse_sweep_8 @ 5.5K
+coarse_sweep_9 @ 5.4K
+coarse_sweep_10 @ 4.72K
+coarse_sweep_11 @ 4.68K
+coarse_sweep_12 @ 4.66K
+coarse_sweep_13 @ 4.65K
