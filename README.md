@@ -20,4 +20,23 @@ Cooldowns:
 
     Wire Bonds @ 4K;
       center-ground: Overload
-      center-center:  Ohm
+      center-center: - Ohm
+
+
+testing with new box
+
+    DC behavior
+    -----------
+    
+    swap port 1 & port 2 coaxes for better routing
+
+    Wire bonds @ room temp;
+      center-ground: 1.3k
+      center-center: 2.6k
+
+    Wire Bonds @ 4K;
+      center-ground:
+      center-center: 
+
+
+
